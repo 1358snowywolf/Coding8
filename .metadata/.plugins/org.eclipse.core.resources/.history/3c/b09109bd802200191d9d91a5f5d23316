@@ -1,0 +1,55 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+map<int, vector<int>> graph;
+map<int, int> determined;
+vector<bool> visited;
+
+int helper(int i, vector<vector<int>> tmp){
+	int product = 1;
+
+	for(auto j : tmp){
+		product *= j[i];
+	}
+
+	return product;
+}
+
+vector<int> DFS(int u){
+	vector<int> answer (3, 0);
+
+	if(determined.find(u) != determined.end()){
+		answer[determined[u]] = 1;
+		return answer;
+	}
+
+	vector<vector<int>> tmp;
+
+	for(int v : graph[u]){
+		if(visited[v]) continue;
+		tmp.push_back(DFS(v));
+	}
+
+	for(int i = 0; i < 3; i++){
+		answer[i] = helper(i, tmp);
+	}
+
+	return answer;
+}
+
+int main(){
+	int N, K;
+	cin >> N >> K;
+
+	for(int i = 0; i < N - 1; i++){
+		int u, v;
+		cin >> u >> v;
+
+		graph[u - 1].push_back(v - 1);
+		graph[v - 1].push_back(u - 1);
+	}
+
+	vector<int> vec = DFS(1);
+
+	return 0;
+}

@@ -1,0 +1,35 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+vector<vector<vector<int>>> DP (100, vector<vector<int>> (101, vector<int> (100, 2000000000)));
+
+int findMin(int i, int j, int N){
+	int minimum = INT_MAX;
+
+	for(int k = 0; k < N; k++){
+		minimum = min(minimum, DP[i - 1][j - 1][k]);
+	}
+}
+
+int main() {
+	int N;
+	cin >> N;
+
+	vector<int> log (N, 0);
+
+	for(int i = 0; i < N; i++){
+		cin >> log[i];
+	}
+
+	for(int i = 1; i < N; i++){
+		for(int j = 1; j < N; j++){
+			for(int k = 0; k < N; k++){
+				if(k == 0){
+					DP[i][j][k] =
+				}
+			}
+		}
+	}
+
+	return 0;
+}

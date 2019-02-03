@@ -1,0 +1,20 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+	string str;
+	cin >> str;
+
+	vector<vector<int>> palindromes (str.size(), vector<int> (str.size(), 0));
+
+	for(int i = 0; i < (int) str.size(); i++){
+		palindromes[i][i] = 1;
+	}
+
+	for(int length = 3; length < (int) str.size(); length++){
+		for(left = 0; left <= (int) str.size() - length; left++);
+	}
+
+	return 0;
+}

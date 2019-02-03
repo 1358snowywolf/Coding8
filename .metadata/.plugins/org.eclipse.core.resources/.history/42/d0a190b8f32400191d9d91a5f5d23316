@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+	vector<pair<int, int>> input;
+	int a, b;
+
+	while(cin >> a){
+		cin >> b;
+
+		input.push_back(make_pair(a, b));
+	}
+
+	sort(input.begin(), input.end());
+	vector<pair<int, vector<int>>> DP (input.size(), make_pair(0, vector<int> ()));
+
+	for(int i = 0; i < (int) input.size(); i++){
+		int indexBest = i;
+
+		for(int j = i - 1; j >= 0; j--){
+
+		}
+	}
+
+	return 0;
+}

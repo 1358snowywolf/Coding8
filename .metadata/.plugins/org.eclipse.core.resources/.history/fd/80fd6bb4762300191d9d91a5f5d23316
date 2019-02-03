@@ -1,0 +1,30 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+	int N;
+	vector<int> A (N, 0);
+
+	for(int i = 0; i < N; i++){
+		cin >> A[i];
+	}
+
+	vector<vector<int>> DP (N, vector<int> (3, 200000000));
+	DP[0][0] = 1;
+
+	if(A[0] == 1 || A[0] == 3){
+		DP[0][1] = 0;
+	}
+	if(A[0] == 2 || A[0] == 3){
+		DP[0][2] = 0;
+	}
+
+	for(int i = 0; i < N; i++){
+		if(A[i] == 1){
+
+		}
+	}
+
+	return 0;
+}

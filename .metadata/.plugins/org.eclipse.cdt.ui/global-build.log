@@ -1,0 +1,2031 @@
+14:17:11 **** Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:17:34 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:18:25 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:19:17 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:19:27 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:20:16 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:23:57 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:26:26 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:27:16 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:33:16 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+14:33:38 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:14:07 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:14:10 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:14:30 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:15:46 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:18:23 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:19:10 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:19:32 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:19:42 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:35:22 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:39:30 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:40:44 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:41:03 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:41:14 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:43:52 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:43:58 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:52 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:46:57 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:46:57 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:47:03 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:47:40 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:47:54 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:50:38 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:50:59 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:51:33 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:51:37 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:52:25 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:53:10 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:53:22 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+20:53:37 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:53:47 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:56:26 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+../src/BarnColoring.cpp: In function ‘int main()’:
+../src/BarnColoring.cpp:89:15: error: no match for ‘operator=’ (operand types are ‘std::vector<int>’ and ‘std::vector<long long int>’)
+    vec = DFS(i);
+               ^
+In file included from /usr/include/c++/7/vector:69:0,
+                 from /usr/include/c++/7/queue:61,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:86,
+                 from ../src/BarnColoring.cpp:1:
+/usr/include/c++/7/bits/vector.tcc:179:5: note: candidate: std::vector<_Tp, _Alloc>& std::vector<_Tp, _Alloc>::operator=(const std::vector<_Tp, _Alloc>&) [with _Tp = int; _Alloc = std::allocator<int>]
+     vector<_Tp, _Alloc>::
+     ^~~~~~~~~~~~~~~~~~~
+/usr/include/c++/7/bits/vector.tcc:179:5: note:   no known conversion for argument 1 from ‘std::vector<long long int>’ to ‘const std::vector<int>&’
+In file included from /usr/include/c++/7/vector:64:0,
+                 from /usr/include/c++/7/queue:61,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:86,
+                 from ../src/BarnColoring.cpp:1:
+/usr/include/c++/7/bits/stl_vector.h:461:7: note: candidate: std::vector<_Tp, _Alloc>& std::vector<_Tp, _Alloc>::operator=(std::vector<_Tp, _Alloc>&&) [with _Tp = int; _Alloc = std::allocator<int>]
+       operator=(vector&& __x) noexcept(_Alloc_traits::_S_nothrow_move())
+       ^~~~~~~~
+/usr/include/c++/7/bits/stl_vector.h:461:7: note:   no known conversion for argument 1 from ‘std::vector<long long int>’ to ‘std::vector<int>&&’
+/usr/include/c++/7/bits/stl_vector.h:482:7: note: candidate: std::vector<_Tp, _Alloc>& std::vector<_Tp, _Alloc>::operator=(std::initializer_list<_Tp>) [with _Tp = int; _Alloc = std::allocator<int>]
+       operator=(initializer_list<value_type> __l)
+       ^~~~~~~~
+/usr/include/c++/7/bits/stl_vector.h:482:7: note:   no known conversion for argument 1 from ‘std::vector<long long int>’ to ‘std::initializer_list<int>’
+src/subdir.mk:18: recipe for target 'src/BarnColoring.o' failed
+make: *** [src/BarnColoring.o] Error 1
+20:56:39 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:56:46 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+20:56:52 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+18:14:10 **** Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+Building file: ../src/MarvoloGuantRing.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MarvoloGuantRing.d" -MT"src/MarvoloGuantRing.o" -o "src/MarvoloGuantRing.o" "../src/MarvoloGuantRing.cpp"
+Finished building: ../src/MarvoloGuantRing.cpp
+ 
+Building target: MarvoloGuantRing
+Invoking: GCC C++ Linker
+g++  -o "MarvoloGuantRing"  ./src/MarvoloGuantRing.o   
+Finished building target: MarvoloGuantRing
+ 
+18:14:44 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+Building file: ../src/MarvoloGuantRing.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MarvoloGuantRing.d" -MT"src/MarvoloGuantRing.o" -o "src/MarvoloGuantRing.o" "../src/MarvoloGuantRing.cpp"
+Finished building: ../src/MarvoloGuantRing.cpp
+ 
+Building target: MarvoloGuantRing
+Invoking: GCC C++ Linker
+g++  -o "MarvoloGuantRing"  ./src/MarvoloGuantRing.o   
+Finished building target: MarvoloGuantRing
+ 
+18:15:03 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+Building file: ../src/MarvoloGuantRing.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MarvoloGuantRing.d" -MT"src/MarvoloGuantRing.o" -o "src/MarvoloGuantRing.o" "../src/MarvoloGuantRing.cpp"
+Finished building: ../src/MarvoloGuantRing.cpp
+ 
+Building target: MarvoloGuantRing
+Invoking: GCC C++ Linker
+g++  -o "MarvoloGuantRing"  ./src/MarvoloGuantRing.o   
+Finished building target: MarvoloGuantRing
+ 
+18:15:06 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+make: Nothing to be done for 'all'.
+18:15:23 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+Building file: ../src/MarvoloGuantRing.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MarvoloGuantRing.d" -MT"src/MarvoloGuantRing.o" -o "src/MarvoloGuantRing.o" "../src/MarvoloGuantRing.cpp"
+Finished building: ../src/MarvoloGuantRing.cpp
+ 
+Building target: MarvoloGuantRing
+Invoking: GCC C++ Linker
+g++  -o "MarvoloGuantRing"  ./src/MarvoloGuantRing.o   
+Finished building target: MarvoloGuantRing
+ 
+18:15:26 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+make: Nothing to be done for 'all'.
+18:17:30 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+Building file: ../src/MarvoloGuantRing.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MarvoloGuantRing.d" -MT"src/MarvoloGuantRing.o" -o "src/MarvoloGuantRing.o" "../src/MarvoloGuantRing.cpp"
+Finished building: ../src/MarvoloGuantRing.cpp
+ 
+Building target: MarvoloGuantRing
+Invoking: GCC C++ Linker
+g++  -o "MarvoloGuantRing"  ./src/MarvoloGuantRing.o   
+Finished building target: MarvoloGuantRing
+ 
+18:18:53 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+Building file: ../src/MarvoloGuantRing.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MarvoloGuantRing.d" -MT"src/MarvoloGuantRing.o" -o "src/MarvoloGuantRing.o" "../src/MarvoloGuantRing.cpp"
+Finished building: ../src/MarvoloGuantRing.cpp
+ 
+Building target: MarvoloGuantRing
+Invoking: GCC C++ Linker
+g++  -o "MarvoloGuantRing"  ./src/MarvoloGuantRing.o   
+Finished building target: MarvoloGuantRing
+ 
+18:19:05 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+make: Nothing to be done for 'all'.
+18:19:59 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+Building file: ../src/MarvoloGuantRing.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MarvoloGuantRing.d" -MT"src/MarvoloGuantRing.o" -o "src/MarvoloGuantRing.o" "../src/MarvoloGuantRing.cpp"
+../src/MarvoloGuantRing.cpp: In function ‘int main()’:
+../src/MarvoloGuantRing.cpp:11:53: error: no matching function for call to ‘std::vector<std::vector<long long int> >::vector(int, std::vector<int>)’
+  vector<vector<long long>> DP (3, vector<int> (N, 0));
+                                                     ^
+In file included from /usr/include/c++/7/vector:64:0,
+                 from /usr/include/c++/7/queue:61,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:86,
+                 from ../src/MarvoloGuantRing.cpp:1:
+/usr/include/c++/7/bits/stl_vector.h:411:2: note: candidate: template<class _InputIterator, class> std::vector<_Tp, _Alloc>::vector(_InputIterator, _InputIterator, const allocator_type&)
+  vector(_InputIterator __first, _InputIterator __last,
+  ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:411:2: note:   template argument deduction/substitution failed:
+../src/MarvoloGuantRing.cpp:11:53: note:   deduced conflicting types for parameter ‘_InputIterator’ (‘int’ and ‘std::vector<int>’)
+  vector<vector<long long>> DP (3, vector<int> (N, 0));
+                                                     ^
+In file included from /usr/include/c++/7/vector:64:0,
+                 from /usr/include/c++/7/queue:61,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:86,
+                 from ../src/MarvoloGuantRing.cpp:1:
+/usr/include/c++/7/bits/stl_vector.h:383:7: note: candidate: std::vector<_Tp, _Alloc>::vector(std::initializer_list<_Tp>, const allocator_type&) [with _Tp = std::vector<long long int>; _Alloc = std::allocator<std::vector<long long int> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<long long int> >]
+       vector(initializer_list<value_type> __l,
+       ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:383:7: note:   no known conversion for argument 1 from ‘int’ to ‘std::initializer_list<std::vector<long long int> >’
+/usr/include/c++/7/bits/stl_vector.h:358:7: note: candidate: std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>&&, const allocator_type&) [with _Tp = std::vector<long long int>; _Alloc = std::allocator<std::vector<long long int> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<long long int> >]
+       vector(vector&& __rv, const allocator_type& __m)
+       ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:358:7: note:   no known conversion for argument 1 from ‘int’ to ‘std::vector<std::vector<long long int> >&&’
+/usr/include/c++/7/bits/stl_vector.h:348:7: note: candidate: std::vector<_Tp, _Alloc>::vector(const std::vector<_Tp, _Alloc>&, const allocator_type&) [with _Tp = std::vector<long long int>; _Alloc = std::allocator<std::vector<long long int> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<long long int> >]
+       vector(const vector& __x, const allocator_type& __a)
+       ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:348:7: note:   no known conversion for argument 1 from ‘int’ to ‘const std::vector<std::vector<long long int> >&’
+/usr/include/c++/7/bits/stl_vector.h:344:7: note: candidate: std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>&&) [with _Tp = std::vector<long long int>; _Alloc = std::allocator<std::vector<long long int> >]
+       vector(vector&& __x) noexcept
+       ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:344:7: note:   candidate expects 1 argument, 2 provided
+/usr/include/c++/7/bits/stl_vector.h:326:7: note: candidate: std::vector<_Tp, _Alloc>::vector(const std::vector<_Tp, _Alloc>&) [with _Tp = std::vector<long long int>; _Alloc = std::allocator<std::vector<long long int> >]
+       vector(const vector& __x)
+       ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:326:7: note:   candidate expects 1 argument, 2 provided
+/usr/include/c++/7/bits/stl_vector.h:295:7: note: candidate: std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>::size_type, const value_type&, const allocator_type&) [with _Tp = std::vector<long long int>; _Alloc = std::allocator<std::vector<long long int> >; std::vector<_Tp, _Alloc>::size_type = long unsigned int; std::vector<_Tp, _Alloc>::value_type = std::vector<long long int>; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<long long int> >]
+       vector(size_type __n, const value_type& __value,
+       ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:295:7: note:   no known conversion for argument 2 from ‘std::vector<int>’ to ‘const value_type& {aka const std::vector<long long int>&}’
+/usr/include/c++/7/bits/stl_vector.h:283:7: note: candidate: std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>::size_type, const allocator_type&) [with _Tp = std::vector<long long int>; _Alloc = std::allocator<std::vector<long long int> >; std::vector<_Tp, _Alloc>::size_type = long unsigned int; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<long long int> >]
+       vector(size_type __n, const allocator_type& __a = allocator_type())
+       ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:283:7: note:   no known conversion for argument 2 from ‘std::vector<int>’ to ‘const allocator_type& {aka const std::allocator<std::vector<long long int> >&}’
+/usr/include/c++/7/bits/stl_vector.h:270:7: note: candidate: std::vector<_Tp, _Alloc>::vector(const allocator_type&) [with _Tp = std::vector<long long int>; _Alloc = std::allocator<std::vector<long long int> >; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<std::vector<long long int> >]
+       vector(const allocator_type& __a) _GLIBCXX_NOEXCEPT
+       ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:270:7: note:   candidate expects 1 argument, 2 provided
+/usr/include/c++/7/bits/stl_vector.h:259:7: note: candidate: std::vector<_Tp, _Alloc>::vector() [with _Tp = std::vector<long long int>; _Alloc = std::allocator<std::vector<long long int> >]
+       vector()
+       ^~~~~~
+/usr/include/c++/7/bits/stl_vector.h:259:7: note:   candidate expects 0 arguments, 2 provided
+src/subdir.mk:18: recipe for target 'src/MarvoloGuantRing.o' failed
+make: *** [src/MarvoloGuantRing.o] Error 1
+18:20:05 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+Building file: ../src/MarvoloGuantRing.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MarvoloGuantRing.d" -MT"src/MarvoloGuantRing.o" -o "src/MarvoloGuantRing.o" "../src/MarvoloGuantRing.cpp"
+Finished building: ../src/MarvoloGuantRing.cpp
+ 
+Building target: MarvoloGuantRing
+Invoking: GCC C++ Linker
+g++  -o "MarvoloGuantRing"  ./src/MarvoloGuantRing.o   
+Finished building target: MarvoloGuantRing
+ 
+18:20:09 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+make: Nothing to be done for 'all'.
+18:20:19 **** Incremental Build of configuration Debug for project MarvoloGuantRing ****
+make all 
+Building file: ../src/MarvoloGuantRing.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/MarvoloGuantRing.d" -MT"src/MarvoloGuantRing.o" -o "src/MarvoloGuantRing.o" "../src/MarvoloGuantRing.cpp"
+Finished building: ../src/MarvoloGuantRing.cpp
+ 
+Building target: MarvoloGuantRing
+Invoking: GCC C++ Linker
+g++  -o "MarvoloGuantRing"  ./src/MarvoloGuantRing.o   
+Finished building target: MarvoloGuantRing
+ 
+19:35:33 **** Build of configuration Debug for project Vacations ****
+make all 
+Building file: ../src/Vacations.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Vacations.d" -MT"src/Vacations.o" -o "src/Vacations.o" "../src/Vacations.cpp"
+../src/Vacations.cpp: In function ‘int main()’:
+../src/Vacations.cpp:7:21: warning: ‘N’ is used uninitialized in this function [-Wuninitialized]
+  vector<int> A (N, 0);
+                     ^
+Finished building: ../src/Vacations.cpp
+ 
+Building target: Vacations
+Invoking: GCC C++ Linker
+g++  -o "Vacations"  ./src/Vacations.o   
+Finished building target: Vacations
+ 
+19:35:42 **** Incremental Build of configuration Debug for project Vacations ****
+make all 
+Building file: ../src/Vacations.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Vacations.d" -MT"src/Vacations.o" -o "src/Vacations.o" "../src/Vacations.cpp"
+Finished building: ../src/Vacations.cpp
+ 
+Building target: Vacations
+Invoking: GCC C++ Linker
+g++  -o "Vacations"  ./src/Vacations.o   
+Finished building target: Vacations
+ 
+19:36:07 **** Incremental Build of configuration Debug for project Vacations ****
+make all 
+Building file: ../src/Vacations.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Vacations.d" -MT"src/Vacations.o" -o "src/Vacations.o" "../src/Vacations.cpp"
+Finished building: ../src/Vacations.cpp
+ 
+Building target: Vacations
+Invoking: GCC C++ Linker
+g++  -o "Vacations"  ./src/Vacations.o   
+Finished building target: Vacations
+ 
+19:38:29 **** Incremental Build of configuration Debug for project Vacations ****
+make all 
+Building file: ../src/Vacations.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Vacations.d" -MT"src/Vacations.o" -o "src/Vacations.o" "../src/Vacations.cpp"
+Finished building: ../src/Vacations.cpp
+ 
+Building target: Vacations
+Invoking: GCC C++ Linker
+g++  -o "Vacations"  ./src/Vacations.o   
+Finished building target: Vacations
+ 
+19:38:32 **** Incremental Build of configuration Debug for project Vacations ****
+make all 
+make: Nothing to be done for 'all'.
+21:20:19 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+Building file: ../src/BarnColoring.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BarnColoring.d" -MT"src/BarnColoring.o" -o "src/BarnColoring.o" "../src/BarnColoring.cpp"
+Finished building: ../src/BarnColoring.cpp
+ 
+Building target: BarnColoring
+Invoking: GCC C++ Linker
+g++  -o "BarnColoring"  ./src/BarnColoring.o   
+Finished building target: BarnColoring
+ 
+21:20:30 **** Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:14:12 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:14:24 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:14:27 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+make: Nothing to be done for 'all'.
+17:15:42 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:15:59 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:27:47 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:27:57 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+make: Nothing to be done for 'all'.
+17:28:14 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:28:17 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+make: Nothing to be done for 'all'.
+17:28:40 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:28:43 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+make: Nothing to be done for 'all'.
+17:29:07 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+make: Nothing to be done for 'all'.
+17:29:31 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+make: Nothing to be done for 'all'.
+17:33:58 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:34:12 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+make: Nothing to be done for 'all'.
+17:34:51 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:35:00 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+make: Nothing to be done for 'all'.
+17:37:17 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:39:42 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:39:54 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:40:37 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:41:47 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:42:04 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+../src/QueriesofPalindromes.cpp: In function ‘int main()’:
+../src/QueriesofPalindromes.cpp:54:15: error: ‘dp’ was not declared in this scope
+  for(auto i : dp){
+               ^~
+../src/QueriesofPalindromes.cpp:55:16: error: unable to deduce ‘auto&&’ from ‘i’
+   for(auto j : i){
+                ^
+src/subdir.mk:18: recipe for target 'src/QueriesofPalindromes.o' failed
+make: *** [src/QueriesofPalindromes.o] Error 1
+17:42:11 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:43:48 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:47:49 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+17:50:15 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+19:36:26 **** Incremental Build of configuration Debug for project BarnColoring ****
+make all 
+make: Nothing to be done for 'all'.
+19:36:42 **** Build of configuration Debug for project TamingTheHerd ****
+make all 
+Building file: ../src/TamingTheHerd.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TamingTheHerd.d" -MT"src/TamingTheHerd.o" -o "src/TamingTheHerd.o" "../src/TamingTheHerd.cpp"
+Finished building: ../src/TamingTheHerd.cpp
+ 
+Building target: TamingTheHerd
+Invoking: GCC C++ Linker
+g++  -o "TamingTheHerd"  ./src/TamingTheHerd.o   
+Finished building target: TamingTheHerd
+ 
+19:37:47 **** Incremental Build of configuration Debug for project TamingTheHerd ****
+make all 
+Building file: ../src/TamingTheHerd.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TamingTheHerd.d" -MT"src/TamingTheHerd.o" -o "src/TamingTheHerd.o" "../src/TamingTheHerd.cpp"
+Finished building: ../src/TamingTheHerd.cpp
+ 
+Building target: TamingTheHerd
+Invoking: GCC C++ Linker
+g++  -o "TamingTheHerd"  ./src/TamingTheHerd.o   
+Finished building target: TamingTheHerd
+ 
+17:03:06 **** Build of configuration Debug for project BiggerSmarter? ****
+make all 
+Building file: ../src/BiggerSmarter?.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter?.d" -MT"src/BiggerSmarter?.o" -o "src/BiggerSmarter?.o" "../src/BiggerSmarter?.cpp"
+Finished building: ../src/BiggerSmarter?.cpp
+ 
+Building target: BiggerSmarter?
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter?"  ./src/BiggerSmarter?.o   
+Finished building target: BiggerSmarter?
+ 
+17:03:26 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+make: Nothing to be done for 'all'.
+17:03:41 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+make: Nothing to be done for 'all'.
+17:04:47 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+Building file: ../src/BiggerSmarter?.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter?.d" -MT"src/BiggerSmarter?.o" -o "src/BiggerSmarter?.o" "../src/BiggerSmarter?.cpp"
+Finished building: ../src/BiggerSmarter?.cpp
+ 
+Building target: BiggerSmarter?
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter?"  ./src/BiggerSmarter?.o   
+Finished building target: BiggerSmarter?
+ 
+17:08:15 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+Building file: ../src/BiggerSmarter?.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter?.d" -MT"src/BiggerSmarter?.o" -o "src/BiggerSmarter?.o" "../src/BiggerSmarter?.cpp"
+Finished building: ../src/BiggerSmarter?.cpp
+ 
+Building target: BiggerSmarter?
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter?"  ./src/BiggerSmarter?.o   
+Finished building target: BiggerSmarter?
+ 
+20:51:26 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+Building file: ../src/BiggerSmarter?.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter?.d" -MT"src/BiggerSmarter?.o" -o "src/BiggerSmarter?.o" "../src/BiggerSmarter?.cpp"
+Finished building: ../src/BiggerSmarter?.cpp
+ 
+Building target: BiggerSmarter?
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter?"  ./src/BiggerSmarter?.o   
+Finished building target: BiggerSmarter?
+ 
+20:51:35 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+make: Nothing to be done for 'all'.
+20:57:13 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+make: Nothing to be done for 'all'.
+21:02:45 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+make: Nothing to be done for 'all'.
+21:04:32 **** Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:04:54 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:04:58 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:05:23 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:05:27 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:06:26 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:07:40 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:08:38 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:09:22 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:10:00 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:13:44 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:14:00 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:15:05 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:15:17 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:15:41 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:16:01 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+Building file: ../src/BiggerSmarter2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter2.d" -MT"src/BiggerSmarter2.o" -o "src/BiggerSmarter2.o" "../src/BiggerSmarter2.cpp"
+Finished building: ../src/BiggerSmarter2.cpp
+ 
+Building target: BiggerSmarter2
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter2"  ./src/BiggerSmarter2.o   
+Finished building target: BiggerSmarter2
+ 
+21:17:16 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:18:02 **** Incremental Build of configuration Debug for project BiggerSmarter2 ****
+make all 
+make: Nothing to be done for 'all'.
+21:18:17 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+Building file: ../src/BiggerSmarter?.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter?.d" -MT"src/BiggerSmarter?.o" -o "src/BiggerSmarter?.o" "../src/BiggerSmarter?.cpp"
+Finished building: ../src/BiggerSmarter?.cpp
+ 
+Building target: BiggerSmarter?
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter?"  ./src/BiggerSmarter?.o   
+Finished building target: BiggerSmarter?
+ 
+21:19:25 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+Building file: ../src/BiggerSmarter?.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter?.d" -MT"src/BiggerSmarter?.o" -o "src/BiggerSmarter?.o" "../src/BiggerSmarter?.cpp"
+../src/BiggerSmarter?.cpp: In function ‘int main()’:
+../src/BiggerSmarter?.cpp:9:6: warning: unused variable ‘N’ [-Wunused-variable]
+  int N;
+      ^
+Finished building: ../src/BiggerSmarter?.cpp
+ 
+Building target: BiggerSmarter?
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter?"  ./src/BiggerSmarter?.o   
+Finished building target: BiggerSmarter?
+ 
+21:20:45 **** Incremental Build of configuration Debug for project BiggerSmarter? ****
+make all 
+Building file: ../src/BiggerSmarter?.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BiggerSmarter?.d" -MT"src/BiggerSmarter?.o" -o "src/BiggerSmarter?.o" "../src/BiggerSmarter?.cpp"
+Finished building: ../src/BiggerSmarter?.cpp
+ 
+Building target: BiggerSmarter?
+Invoking: GCC C++ Linker
+g++  -o "BiggerSmarter?"  ./src/BiggerSmarter?.o   
+Finished building target: BiggerSmarter?
+ 
+18:29:05 **** Build of configuration Debug for project BiggerSmarter? ****
+make all 
+make: Nothing to be done for 'all'.
+20:55:26 **** Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+../src/BuildingNewBarn.cpp: In function ‘int main()’:
+../src/BuildingNewBarn.cpp:33:7: error: no match for ‘operator>>’ (operand types are ‘std::istream {aka std::basic_istream<char>}’ and ‘std::vector<int>’)
+   cin >> X >> Y;
+   ~~~~^~~~
+In file included from /usr/include/c++/7/sstream:38:0,
+                 from /usr/include/c++/7/complex:45,
+                 from /usr/include/c++/7/ccomplex:39,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/istream:120:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__istream_type& (*)(std::basic_istream<_CharT, _Traits>::__istream_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(__istream_type& (*__pf)(__istream_type&))
+       ^~~~~~~~
+/usr/include/c++/7/istream:120:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘std::basic_istream<char>::__istream_type& (*)(std::basic_istream<char>::__istream_type&) {aka std::basic_istream<char>& (*)(std::basic_istream<char>&)}’
+/usr/include/c++/7/istream:124:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__ios_type& (*)(std::basic_istream<_CharT, _Traits>::__ios_type&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>; std::basic_istream<_CharT, _Traits>::__ios_type = std::basic_ios<char>]
+       operator>>(__ios_type& (*__pf)(__ios_type&))
+       ^~~~~~~~
+/usr/include/c++/7/istream:124:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘std::basic_istream<char>::__ios_type& (*)(std::basic_istream<char>::__ios_type&) {aka std::basic_ios<char>& (*)(std::basic_ios<char>&)}’
+/usr/include/c++/7/istream:131:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(std::ios_base& (*)(std::ios_base&)) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(ios_base& (*__pf)(ios_base&))
+       ^~~~~~~~
+/usr/include/c++/7/istream:131:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘std::ios_base& (*)(std::ios_base&)’
+/usr/include/c++/7/istream:168:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(bool&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(bool& __n)
+       ^~~~~~~~
+/usr/include/c++/7/istream:168:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘bool&’
+/usr/include/c++/7/istream:172:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(short int&) [with _CharT = char; _Traits = std::char_traits<char>]
+       operator>>(short& __n);
+       ^~~~~~~~
+/usr/include/c++/7/istream:172:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘short int&’
+/usr/include/c++/7/istream:175:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(short unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned short& __n)
+       ^~~~~~~~
+/usr/include/c++/7/istream:175:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘short unsigned int&’
+/usr/include/c++/7/istream:179:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(int&) [with _CharT = char; _Traits = std::char_traits<char>]
+       operator>>(int& __n);
+       ^~~~~~~~
+/usr/include/c++/7/istream:179:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘int&’
+/usr/include/c++/7/istream:182:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned int& __n)
+       ^~~~~~~~
+/usr/include/c++/7/istream:182:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘unsigned int&’
+/usr/include/c++/7/istream:186:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(long& __n)
+       ^~~~~~~~
+/usr/include/c++/7/istream:186:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘long int&’
+/usr/include/c++/7/istream:190:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned long& __n)
+       ^~~~~~~~
+/usr/include/c++/7/istream:190:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘long unsigned int&’
+/usr/include/c++/7/istream:195:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(long long& __n)
+       ^~~~~~~~
+/usr/include/c++/7/istream:195:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘long long int&’
+/usr/include/c++/7/istream:199:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long long unsigned int&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(unsigned long long& __n)
+       ^~~~~~~~
+/usr/include/c++/7/istream:199:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘long long unsigned int&’
+/usr/include/c++/7/istream:214:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(float&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(float& __f)
+       ^~~~~~~~
+/usr/include/c++/7/istream:214:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘float&’
+/usr/include/c++/7/istream:218:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(double& __f)
+       ^~~~~~~~
+/usr/include/c++/7/istream:218:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘double&’
+/usr/include/c++/7/istream:222:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(long double&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(long double& __f)
+       ^~~~~~~~
+/usr/include/c++/7/istream:222:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘long double&’
+/usr/include/c++/7/istream:235:7: note: candidate: std::basic_istream<_CharT, _Traits>::__istream_type& std::basic_istream<_CharT, _Traits>::operator>>(void*&) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__istream_type = std::basic_istream<char>]
+       operator>>(void*& __p)
+       ^~~~~~~~
+/usr/include/c++/7/istream:235:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘void*&’
+/usr/include/c++/7/istream:259:7: note: candidate: std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, _Traits>::operator>>(std::basic_istream<_CharT, _Traits>::__streambuf_type*) [with _CharT = char; _Traits = std::char_traits<char>; std::basic_istream<_CharT, _Traits>::__streambuf_type = std::basic_streambuf<char>]
+       operator>>(__streambuf_type* __sb);
+       ^~~~~~~~
+/usr/include/c++/7/istream:259:7: note:   no known conversion for argument 1 from ‘std::vector<int>’ to ‘std::basic_istream<char>::__streambuf_type* {aka std::basic_streambuf<char>*}’
+In file included from /usr/include/c++/7/string:53:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/istream:38,
+                 from /usr/include/c++/7/sstream:38,
+                 from /usr/include/c++/7/complex:45,
+                 from /usr/include/c++/7/ccomplex:39,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/basic_string.tcc:1465:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator>>(basic_istream<_CharT, _Traits>& __in,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.tcc:1465:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/istream:991:0,
+                 from /usr/include/c++/7/sstream:38,
+                 from /usr/include/c++/7/complex:45,
+                 from /usr/include/c++/7/ccomplex:39,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/istream.tcc:963:5: note: candidate: template<class _CharT2, class _Traits2> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT2*)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT* __s)
+     ^~~~~~~~
+/usr/include/c++/7/bits/istream.tcc:963:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   mismatched types ‘_CharT2*’ and ‘std::vector<int>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/istream:991:0,
+                 from /usr/include/c++/7/sstream:38,
+                 from /usr/include/c++/7/complex:45,
+                 from /usr/include/c++/7/ccomplex:39,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/istream.tcc:931:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, _CharT&)
+     operator>>(basic_istream<_CharT, _Traits>& __in, _CharT& __c)
+     ^~~~~~~~
+/usr/include/c++/7/bits/istream.tcc:931:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   deduced conflicting types for parameter ‘_CharT’ (‘char’ and ‘std::vector<int>’)
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/sstream:38:0,
+                 from /usr/include/c++/7/complex:45,
+                 from /usr/include/c++/7/ccomplex:39,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/istream:756:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char&)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char& __c)
+     ^~~~~~~~
+/usr/include/c++/7/istream:756:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘unsigned char&’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/sstream:38:0,
+                 from /usr/include/c++/7/complex:45,
+                 from /usr/include/c++/7/ccomplex:39,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/istream:761:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char&)
+     operator>>(basic_istream<char, _Traits>& __in, signed char& __c)
+     ^~~~~~~~
+/usr/include/c++/7/istream:761:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘signed char&’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/sstream:38:0,
+                 from /usr/include/c++/7/complex:45,
+                 from /usr/include/c++/7/ccomplex:39,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/istream:803:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned char*)
+     operator>>(basic_istream<char, _Traits>& __in, unsigned char* __s)
+     ^~~~~~~~
+/usr/include/c++/7/istream:803:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘unsigned char*’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/sstream:38:0,
+                 from /usr/include/c++/7/complex:45,
+                 from /usr/include/c++/7/ccomplex:39,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/istream:808:5: note: candidate: template<class _Traits> std::basic_istream<char, _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*)
+     operator>>(basic_istream<char, _Traits>& __in, signed char* __s)
+     ^~~~~~~~
+/usr/include/c++/7/istream:808:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘signed char*’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/sstream:38:0,
+                 from /usr/include/c++/7/complex:45,
+                 from /usr/include/c++/7/ccomplex:39,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/istream:980:5: note: candidate: template<class _Istream, class _Tp> typename std::enable_if<std::__and_<std::__not_<std::is_lvalue_reference<_Tp> >, std::__is_convertible_to_basic_istream<_Istream>, std::__is_extractable<typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type, _Tp&&, void> >::value, typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type>::type std::operator>>(_Istream&&, _Tp&&)
+     operator>>(_Istream&& __is, _Tp&& __x)
+     ^~~~~~~~
+/usr/include/c++/7/istream:980:5: note:   template argument deduction/substitution failed:
+/usr/include/c++/7/istream: In substitution of ‘template<class _Istream, class _Tp> typename std::enable_if<std::__and_<std::__not_<std::is_lvalue_reference<_Tp> >, std::__is_convertible_to_basic_istream<_Istream>, std::__is_extractable<typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type, _Tp&&, void> >::value, typename std::__is_convertible_to_basic_istream<_Tp>::__istream_type>::type std::operator>>(_Istream&&, _Tp&&) [with _Istream = std::basic_istream<char>&; _Tp = std::vector<int>&]’:
+../src/BuildingNewBarn.cpp:33:10:   required from here
+/usr/include/c++/7/istream:980:5: error: no type named ‘type’ in ‘struct std::enable_if<false, std::basic_istream<char>&>’
+In file included from /usr/include/c++/7/ccomplex:39:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:52,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/complex:493:5: note: candidate: template<class _Tp, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::complex<_Tp>&)
+     operator>>(basic_istream<_CharT, _Traits>& __is, complex<_Tp>& __x)
+     ^~~~~~~~
+/usr/include/c++/7/complex:493:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::complex<_Tp>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:66:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bitset:1462:5: note: candidate: template<class _CharT, class _Traits, long unsigned int _Nb> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::bitset<_Nb>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is, bitset<_Nb>& __x)
+     ^~~~~~~~
+/usr/include/c++/7/bitset:1462:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::bitset<_Nb>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:72:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/iomanip:71:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::_Resetiosflags)
+     operator>>(basic_istream<_CharT, _Traits>& __is, _Resetiosflags __f)
+     ^~~~~~~~
+/usr/include/c++/7/iomanip:71:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘std::_Resetiosflags’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:72:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/iomanip:101:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::_Setiosflags)
+     operator>>(basic_istream<_CharT, _Traits>& __is, _Setiosflags __f)
+     ^~~~~~~~
+/usr/include/c++/7/iomanip:101:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘std::_Setiosflags’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:72:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/iomanip:132:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::_Setbase)
+     operator>>(basic_istream<_CharT, _Traits>& __is, _Setbase __f)
+     ^~~~~~~~
+/usr/include/c++/7/iomanip:132:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘std::_Setbase’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:72:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/iomanip:170:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::_Setfill<_CharT>)
+     operator>>(basic_istream<_CharT, _Traits>& __is, _Setfill<_CharT> __f)
+     ^~~~~~~~
+/usr/include/c++/7/iomanip:170:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::_Setfill<_CharT>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:72:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/iomanip:200:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::_Setprecision)
+     operator>>(basic_istream<_CharT, _Traits>& __is, _Setprecision __f)
+     ^~~~~~~~
+/usr/include/c++/7/iomanip:200:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘std::_Setprecision’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:72:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/iomanip:230:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::_Setw)
+     operator>>(basic_istream<_CharT, _Traits>& __is, _Setw __f)
+     ^~~~~~~~
+/usr/include/c++/7/iomanip:230:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘std::_Setw’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:72:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/iomanip:264:5: note: candidate: template<class _CharT, class _Traits, class _MoneyT> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::_Get_money<_MoneyT>)
+     operator>>(basic_istream<_CharT, _Traits>& __is, _Get_money<_MoneyT> __f)
+     ^~~~~~~~
+/usr/include/c++/7/iomanip:264:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::_Get_money<_MoneyT>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:72:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/iomanip:418:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::_Get_time<_CharT>)
+     operator>>(basic_istream<_CharT, _Traits>& __is, _Get_time<_CharT> __f)
+     ^~~~~~~~
+/usr/include/c++/7/iomanip:418:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::_Get_time<_CharT>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/valarray:592:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:95,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/valarray_after.h:411:5: note: candidate: template<class _Dom1, class _Dom2> std::_Expr<std::_BinClos<std::__shift_right, std::_Expr, std::_Expr, _Dom1, _Dom2>, typename std::__fun<std::__shift_right, typename _Dom1::value_type>::result_type> std::operator>>(const std::_Expr<_Dom1, typename _Dom1::value_type>&, const std::_Expr<_Dom2, typename _Dom2::value_type>&)
+     _DEFINE_EXPR_BINARY_OPERATOR(>>, __shift_right)
+     ^
+/usr/include/c++/7/bits/valarray_after.h:411:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::istream {aka std::basic_istream<char>}’ is not derived from ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/valarray:592:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:95,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/valarray_after.h:411:5: note: candidate: template<class _Dom> std::_Expr<std::_BinClos<std::__shift_right, std::_Expr, std::_Constant, _Dom, typename _Dom::value_type>, typename std::__fun<std::__shift_right, typename _Dom1::value_type>::result_type> std::operator>>(const std::_Expr<_Dom1, typename _Dom1::value_type>&, const typename _Dom::value_type&)
+     _DEFINE_EXPR_BINARY_OPERATOR(>>, __shift_right)
+     ^
+/usr/include/c++/7/bits/valarray_after.h:411:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::istream {aka std::basic_istream<char>}’ is not derived from ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/valarray:592:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:95,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/valarray_after.h:411:5: note: candidate: template<class _Dom> std::_Expr<std::_BinClos<std::__shift_right, std::_Constant, std::_Expr, typename _Dom::value_type, _Dom>, typename std::__fun<std::__shift_right, typename _Dom1::value_type>::result_type> std::operator>>(const typename _Dom::value_type&, const std::_Expr<_Dom1, typename _Dom1::value_type>&)
+     _DEFINE_EXPR_BINARY_OPERATOR(>>, __shift_right)
+     ^
+/usr/include/c++/7/bits/valarray_after.h:411:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/valarray:592:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:95,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/valarray_after.h:411:5: note: candidate: template<class _Dom> std::_Expr<std::_BinClos<std::__shift_right, std::_Expr, std::_ValArray, _Dom, typename _Dom::value_type>, typename std::__fun<std::__shift_right, typename _Dom1::value_type>::result_type> std::operator>>(const std::_Expr<_Dom1, typename _Dom1::value_type>&, const std::valarray<typename _Dom::value_type>&)
+     _DEFINE_EXPR_BINARY_OPERATOR(>>, __shift_right)
+     ^
+/usr/include/c++/7/bits/valarray_after.h:411:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::istream {aka std::basic_istream<char>}’ is not derived from ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/valarray:592:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:95,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/valarray_after.h:411:5: note: candidate: template<class _Dom> std::_Expr<std::_BinClos<std::__shift_right, std::_ValArray, std::_Expr, typename _Dom::value_type, _Dom>, typename std::__fun<std::__shift_right, typename _Dom1::value_type>::result_type> std::operator>>(const std::valarray<typename _Dom::value_type>&, const std::_Expr<_Dom1, typename _Dom1::value_type>&)
+     _DEFINE_EXPR_BINARY_OPERATOR(>>, __shift_right)
+     ^
+/usr/include/c++/7/bits/valarray_after.h:411:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘const std::_Expr<_Dom1, typename _Dom1::value_type>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:95:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/valarray:1181:1: note: candidate: template<class _Tp> std::_Expr<std::_BinClos<std::__shift_right, std::_ValArray, std::_ValArray, _Tp, _Tp>, typename std::__fun<std::__shift_right, _Tp>::result_type> std::operator>>(const std::valarray<_Tp>&, const std::valarray<_Tp>&)
+ _DEFINE_BINARY_OPERATOR(>>, __shift_right)
+ ^
+/usr/include/c++/7/valarray:1181:1: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::istream {aka std::basic_istream<char>}’ is not derived from ‘const std::valarray<_Tp>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:95:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/valarray:1181:1: note: candidate: template<class _Tp> std::_Expr<std::_BinClos<std::__shift_right, std::_ValArray, std::_Constant, _Tp, _Tp>, typename std::__fun<std::__shift_right, _Tp>::result_type> std::operator>>(const std::valarray<_Tp>&, const _Tp&)
+ _DEFINE_BINARY_OPERATOR(>>, __shift_right)
+ ^
+/usr/include/c++/7/valarray:1181:1: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::istream {aka std::basic_istream<char>}’ is not derived from ‘const std::valarray<_Tp>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:95:0,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/valarray:1181:1: note: candidate: template<class _Tp> std::_Expr<std::_BinClos<std::__shift_right, std::_Constant, std::_ValArray, _Tp, _Tp>, typename std::__fun<std::__shift_right, _Tp>::result_type> std::operator>>(const _Tp&, const std::valarray<_Tp>&)
+ _DEFINE_BINARY_OPERATOR(>>, __shift_right)
+ ^
+/usr/include/c++/7/valarray:1181:1: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘const std::valarray<_Tp>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:505:5: note: candidate: template<class _UIntType1, long unsigned int __w1, long unsigned int __n1, long unsigned int __m1, long unsigned int __r1, _UIntType1 __a1, long unsigned int __u1, _UIntType1 __d1, long unsigned int __s1, _UIntType1 __b1, long unsigned int __t1, _UIntType1 __c1, long unsigned int __l1, _UIntType1 __f1, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:505:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::mersenne_twister_engine<_UIntType, __w, __n, __m, __r, __a, __u, __d, __s, __b, __t, __c, __l, __f>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:898:5: note: candidate: template<class _IntType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::uniform_int_distribution<_IntType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:898:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::uniform_int_distribution<_IntType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:960:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::uniform_real_distribution<_IntType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:960:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::uniform_real_distribution<_IntType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:2147:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::cauchy_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:2147:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::cauchy_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:49:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.h:3644:5: note: candidate: template<class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::bernoulli_distribution&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.h:3644:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   cannot convert ‘X’ (type ‘std::vector<int>’) to type ‘std::bernoulli_distribution&’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:1925:5: note: candidate: template<class _RealType1, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::normal_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:1925:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::normal_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:1104:5: note: candidate: template<class _IntType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::geometric_distribution<_IntType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:1104:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::geometric_distribution<_IntType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:2469:5: note: candidate: template<class _RealType1, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::gamma_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:2469:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::gamma_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:1754:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::exponential_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:1754:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::exponential_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:2546:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::weibull_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:2546:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::weibull_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:2622:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::extreme_value_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:2622:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::extreme_value_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:178:5: note: candidate: template<class _UIntType, _UIntType __a, _UIntType __c, _UIntType __m, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::linear_congruential_engine<_UIntType, __a, __c, __m>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:178:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::linear_congruential_engine<_UIntType, __a, __c, __m>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:657:5: note: candidate: template<class _UIntType, long unsigned int __w, long unsigned int __s, long unsigned int __r, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::subtract_with_carry_engine<_UIntType, __w, __s, __r>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:657:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::subtract_with_carry_engine<_UIntType, __w, __s, __r>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:725:5: note: candidate: template<class _RandomNumberEngine, long unsigned int __p, long unsigned int __r, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::discard_block_engine<_RandomNumberEngine, __p, __r>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:725:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::discard_block_engine<_RandomNumberEngine, __p, __r>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:856:5: note: candidate: template<class _RandomNumberEngine, long unsigned int __k, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::shuffle_order_engine<_RandomNumberEngine, __k>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:856:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::shuffle_order_engine<_RandomNumberEngine, __k>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:1220:5: note: candidate: template<class _IntType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::negative_binomial_distribution<_IntType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:1220:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::negative_binomial_distribution<_IntType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:1425:5: note: candidate: template<class _IntType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::poisson_distribution<_IntType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:1425:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::poisson_distribution<_IntType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:1693:5: note: candidate: template<class _IntType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::binomial_distribution<_IntType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:1693:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::binomial_distribution<_IntType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:1988:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::lognormal_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:1988:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::lognormal_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:2060:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::chi_squared_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:2060:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::chi_squared_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:2225:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::fisher_f_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:2225:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::fisher_f_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:2299:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::student_t_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:2299:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::student_t_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:2761:5: note: candidate: template<class _IntType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::discrete_distribution<_IntType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:2761:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::discrete_distribution<_IntType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:2976:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::piecewise_constant_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:2976:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::piecewise_constant_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+In file included from /usr/include/c++/7/random:51:0,
+                 from /usr/include/x86_64-linux-gnu/c++/7/bits/stdc++.h:108,
+                 from ../src/BuildingNewBarn.cpp:1:
+/usr/include/c++/7/bits/random.tcc:3192:5: note: candidate: template<class _RealType, class _CharT, class _Traits> std::basic_istream<_CharT, _Traits>& std::operator>>(std::basic_istream<_CharT, _Traits>&, std::piecewise_linear_distribution<_RealType>&)
+     operator>>(std::basic_istream<_CharT, _Traits>& __is,
+     ^~~~~~~~
+/usr/include/c++/7/bits/random.tcc:3192:5: note:   template argument deduction/substitution failed:
+../src/BuildingNewBarn.cpp:33:10: note:   ‘std::vector<int>’ is not derived from ‘std::piecewise_linear_distribution<_RealType>’
+   cin >> X >> Y;
+          ^
+src/subdir.mk:18: recipe for target 'src/BuildingNewBarn.o' failed
+make: *** [src/BuildingNewBarn.o] Error 1
+20:55:38 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+20:56:06 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+20:58:02 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+20:58:10 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+20:58:45 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+21:10:49 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+../src/BuildingNewBarn.cpp: In function ‘int main()’:
+../src/BuildingNewBarn.cpp:46:19: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for(int k = 0; k < (int) sizeof(dx) / sizeof(int); k++){
+                 ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+21:12:47 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+21:13:06 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+21:13:14 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+21:14:33 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+21:14:45 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+21:16:12 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+../src/BuildingNewBarn.cpp: In function ‘int main()’:
+../src/BuildingNewBarn.cpp:56:64: error: invalid operands of types ‘int’ and ‘const char [2]’ to binary ‘operator<<’
+    int dist = distance(medianX + dx[k], medianY + dy[k], X, Y) << " " << medianX + dx[k];
+               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+make: *** [src/BuildingNewBarn.o] Error 1
+src/subdir.mk:18: recipe for target 'src/BuildingNewBarn.o' failed
+21:16:19 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+21:17:53 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+Building file: ../src/BuildingNewBarn.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/BuildingNewBarn.d" -MT"src/BuildingNewBarn.o" -o "src/BuildingNewBarn.o" "../src/BuildingNewBarn.cpp"
+Finished building: ../src/BuildingNewBarn.cpp
+ 
+Building target: BuildingNewBarn
+Invoking: GCC C++ Linker
+g++  -o "BuildingNewBarn"  ./src/BuildingNewBarn.o   
+Finished building target: BuildingNewBarn
+ 
+21:18:05 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+make: Nothing to be done for 'all'.
+21:18:12 **** Incremental Build of configuration Debug for project BuildingNewBarn ****
+make all 
+make: Nothing to be done for 'all'.

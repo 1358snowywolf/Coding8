@@ -1,0 +1,15 @@
+17:50:15 **** Incremental Build of configuration Debug for project QueriesofPalindromes ****
+make all 
+Building file: ../src/QueriesofPalindromes.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/QueriesofPalindromes.d" -MT"src/QueriesofPalindromes.o" -o "src/QueriesofPalindromes.o" "../src/QueriesofPalindromes.cpp"
+Finished building: ../src/QueriesofPalindromes.cpp
+ 
+Building target: QueriesofPalindromes
+Invoking: GCC C++ Linker
+g++  -o "QueriesofPalindromes"  ./src/QueriesofPalindromes.o   
+Finished building target: QueriesofPalindromes
+ 
+
+17:50:17 Build Finished. 0 errors, 0 warnings. (took 1s.272ms)
+

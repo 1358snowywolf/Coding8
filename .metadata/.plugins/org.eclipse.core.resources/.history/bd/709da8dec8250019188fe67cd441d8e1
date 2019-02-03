@@ -1,0 +1,58 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+bool compare(pair<pair<int, int>, int> a, pair<pair<int, int>, int> b) {
+    return a.first.second > b.first.second;
+}
+
+void print_path(int *path, int end) {
+    if(end > -1) {
+        print_path(path, path[end]);
+        printf("%d\n", ws[end].second + 1);
+    }
+}
+
+int main() {
+	vector<pair<pair<int, int>, int>> ws;
+	int index = 0;
+	int n, m;
+
+    while(cin >> n >> m){
+        ws.push_back(make_pair(make_pair(n, m), index));
+        index++;
+    }
+
+    sort(ws.begin(), ws.end(), compare);
+
+    // longest increasing subsequence
+    vector<int> s (ws.size(), 0);
+    vector<int> path (ws.size(), 0);
+    int maximum = 1;
+    int position = 0;
+
+    s[0] = 1; path[0] = -1;
+
+    for(int i = 1; i < ws.size(); i++) {
+        int prev = -1;
+        s[i] = 1;
+
+        for(int j = 0; j < i; j++) {
+            if(ws[j].first.first < ws[i].first.first
+                    && ws[j].first.second > ws[i].first.second
+                    && s[i] < s[j] + 1) {
+                s[i] = s[j] + 1;
+                lprev = j;
+            }
+        }
+        path[i] = prev;
+
+        if(maximum < s[i]) {
+            maximum = s[i];
+            position = i;
+        }
+    }
+
+    printf("%d\n", maximum);
+    print_path(path, position);
+}

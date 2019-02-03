@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+	int N, P, Q, R;
+	cin >> N >> P >> Q >> R;
+	vector<vector<int>> DP (3, vector<int> (N, 0));
+
+	return 0;
+}

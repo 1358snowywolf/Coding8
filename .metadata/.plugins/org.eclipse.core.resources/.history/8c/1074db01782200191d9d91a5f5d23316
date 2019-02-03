@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+map<int, vector<int>> graph;
+
+
+int main(){
+	int N, K;
+	cin >> N >> K;
+
+	for(int i = 0; i < N - 1; i++){
+		int u, v;
+		cin >> u >> v;
+
+		graph[u - 1].push_back(v - 1);
+		graph[v - 1].push_back(u - 1);
+	}
+
+
+
+	return 0;
+}

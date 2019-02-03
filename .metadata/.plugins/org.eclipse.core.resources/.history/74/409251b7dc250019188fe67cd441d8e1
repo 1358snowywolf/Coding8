@@ -1,0 +1,33 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int Median(vector<int> coordinates){
+	sort(coordinates.begin(), coordinates.end());
+
+	if((int) coordinates.size() % 2 == 0){
+		return coordinates[coordinates.size() / 2];
+	}
+	else{
+		return (coordinates[(coordinates.size() / 2) + 1] + coordinates[(coordinates.size() / 2)] )/ 2;
+	}
+}
+
+int main(){
+	int N;
+	cin >> N;
+	vector<int> X (N, 0);
+	vector<int> Y = X;
+
+	for(int i = 0; i < N; i++){
+		cin >> X >> Y;
+	}
+
+	int medianX = Median(X);
+	int medianY = Median(Y);
+
+	int dx[] = {0, 0, -1, 1};
+	int dy[] = {1, -1, 0, 0};
+
+	return 0;
+}

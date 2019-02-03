@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int Evenmedian(vector<int> coordinates){
+	sort(coordinates.begin(), coordinates.end());
+	return coordinates[(int) coordinates.size() / 2];
+}
+
+int main(){
+	int N;
+	cin >> N;
+	vector<int> X (N, 0);
+	vector<int> Y = X;
+
+	for(int i = 0; i < N; i++){
+		cin >> X >> Y;
+	}
+
+
+
+	return 0;
+}

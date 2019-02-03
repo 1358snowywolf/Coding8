@@ -1,0 +1,18 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+	vector<pair<int, int>> input;
+	int a, b;
+
+	while(cin >> a){
+		cin >> b;
+
+		input.push_back(make_pair(a, b));
+	}
+
+	sort(input.begin(), input.end());
+
+	return 0;
+}

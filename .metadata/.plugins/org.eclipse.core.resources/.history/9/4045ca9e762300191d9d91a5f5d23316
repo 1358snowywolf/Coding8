@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+	int N;
+	vector<int> options (N, 0);
+
+	for(int i = 0; i < N; i++){
+		cin >> options[i];
+	}
+
+	vector<vector<int>> DP (N, vector<int> (3, 0));
+
+	return 0;
+}

@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int median(vector<int> coordinates){
+	sort(coordinates.begin(), coordinates.end());
+}
+
+int main(){
+	int N;
+	cin >> N;
+	vector<int> X (N, 0);
+	vector<int> Y = X;
+
+	for(int i = 0; i < N; i++){
+		cin >> X >> Y;
+	}
+
+
+
+	return 0;
+}
